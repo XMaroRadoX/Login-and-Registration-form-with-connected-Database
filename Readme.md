@@ -23,11 +23,15 @@ Before you begin, make sure you have the following software installed on your lo
 * PHP 🔧
 ### Installation 🔨
 
-Clone the repository:💾
+* Clone the repository:💾
+
 ```git clone https://github.com/XMaroRadoX/Login-and-Registration-Form-with-connected-database.git ```
-Navigate to the project directory:🚶‍♂️
+
+* Navigate to the project directory:🚶‍♂️
+
 ```cd login-registration-form```
-Start XAMPP and start Apache and MySQL 🔥
+
+* Start XAMPP and start Apache and MySQL 🔥
 
 Copy the project files to the htdocs folder of your XAMPP installation 📂
 
